@@ -1,0 +1,17 @@
+# general
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# mac os
+*.swp
+.AppleDouble
+.LSOverride
+
+# website
+node_modules/
+dist/
+tmp/
