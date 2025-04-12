@@ -5,13 +5,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# mac os
 *.swp
 .AppleDouble
 .LSOverride
-
-# website
-node_modules/
-dist/
-tmp/
+.vscode
